@@ -5,3 +5,5 @@ Bu proje, klavye tuşlarını veya mouse tıklamalarını kullanarak bateri çal
 ## 🔗 Canlı Demo
 [Buraya Tıklayarak Projeyi İnceleyebilirsiniz](rad-dasik-f5d93c.netlify.app)
 
+rad-dasik-f5d93c.netlify.app
+
