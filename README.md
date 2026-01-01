@@ -1,0 +1,7 @@
+# JavaScript Drum Kit 🥁
+
+Bu proje, klavye tuşlarını veya mouse tıklamalarını kullanarak bateri çalmanızı sağlayan interaktif bir web uygulamasıdır.
+
+## 🔗 Canlı Demo
+[Buraya Tıklayarak Projeyi İnceleyebilirsiniz](https://senin-github-linkin.github.io/repo-adin/)
+
